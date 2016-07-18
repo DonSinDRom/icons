@@ -1,0 +1,20 @@
+.am {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  position: relative;
+}
+
+.am__icon {
+  color: #000000;
+  font-size: 4rem;
+  padding: 10px;
+  background: #fff;
+  margin: .5rem;
+  border-radius: .2rem;
+  width: 4rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

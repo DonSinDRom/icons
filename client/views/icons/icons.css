@@ -1,0 +1,12 @@
+.icons {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.icons__flag {
+  margin: .5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
